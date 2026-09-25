@@ -10,30 +10,31 @@ from .task4_chunking_indexing import embed_texts, get_collection
 
 def semantic_search(query: str, top_k: int = 10) -> list[dict]:
     """Trả về dense SearchResult theo score giảm dần."""
-    # TODO: Implement semantic search.
-    #
-    # query_vector = embed_texts([query])[0]
-    # response = get_collection().query(
-    #     query_embeddings=[query_vector],
-    #     n_results=top_k,
-    #     include=["documents", "metadatas", "distances"],
-    # )
-    # results = []
-    # for item_id, content, metadata, distance in zip(
-    #     response["ids"][0],
-    #     response["documents"][0],
-    #     response["metadatas"][0],
-    #     response["distances"][0],
-    # ):
-    #     results.append({
-    #         "id": item_id,
-    #         "content": content,
-    #         "score": max(0.0, 1.0 - distance),
-    #         "metadata": metadata,
-    #         "retrieval_method": "dense",
-    #     })
-    # return sorted(results, key=lambda item: item["score"], reverse=True)[:top_k]
-    raise NotImplementedError("Implement semantic_search")
+    try:
+        query_vector = embed_texts([query], is_query=True)[0]
+    except TypeError:  # embed_texts thay thế không nhận is_query
+        query_vector = embed_texts([query])[0]
+    response = get_collection().query(
+        query_embeddings=[query_vector],
+        n_results=top_k,
+        include=["documents", "metadatas", "distances"],
+    )
+    results = []
+    for item_id, content, metadata, distance in zip(
+        response["ids"][0],
+        response["documents"][0],
+        response["metadatas"][0],
+        response["distances"][0],
+    ):
+        results.append({
+            "id": item_id,
+            "content": content,
+            "score": max(0.0, 1.0 - distance),
+            # Task 4 bỏ url=None khi lưu vào Chroma -> trả lại đúng contract.
+            "metadata": {"url": None, **metadata},
+            "retrieval_method": "dense",
+        })
+    return sorted(results, key=lambda item: item["score"], reverse=True)[:top_k]
 
 
 if __name__ == "__main__":

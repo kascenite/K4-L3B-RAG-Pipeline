@@ -1,30 +1,55 @@
 import streamlit as st
 from dotenv import load_dotenv
 
+from src.task10_generation import generate_with_citation
+
 
 load_dotenv()
 
 st.set_page_config(
-    page_title="RAG Chatbot",
-    page_icon="",
+    page_title="Hỏi đáp pháp luật hộ kinh doanh",
+    page_icon="⚖️",
     layout="wide",
 )
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-with st.sidebar:
-    st.title("RAG Chatbot")
-    st.caption("Thay mô tả theo đề tài của nhóm")
-    top_k = st.slider("Số chunks", 3, 10, 5)
 
-st.title("RAG Chatbot")
-st.caption("Thay tiêu đề và hướng dẫn sử dụng")
+def render_sources(sources: list[dict], retrieval_source: str) -> None:
+    if not sources:
+        return
+    with st.expander(f"Nguồn ({len(sources)} · {retrieval_source})"):
+        for number, source in enumerate(sources, 1):
+            metadata = source["metadata"]
+            title = metadata["title"]
+            if metadata.get("url"):
+                title = f"[{title}]({metadata['url']})"
+            st.markdown(
+                f"**[{number}]** {title}  \n"
+                f"`{metadata['source']}` · chunk {metadata['chunk_index']} · "
+                f"{source['retrieval_method']} score {source['score']:.4f}"
+            )
+            st.caption(source["content"][:600] + ("…" if len(source["content"]) > 600 else ""))
+
+
+with st.sidebar:
+    st.title("Pháp luật hộ kinh doanh")
+    st.caption(
+        "Trả lời từ các nghị định/thông tư 2025–2026 về đăng ký, thuế, hóa đơn "
+        "của hộ kinh doanh và tin tức liên quan. Mỗi ý có citation [n] trỏ tới nguồn."
+    )
+    top_k = st.slider("Số chunks", 3, 10, 5)
+    if st.button("Xóa hội thoại"):
+        st.session_state.messages = []
+
+st.title("Hỏi đáp pháp luật hộ kinh doanh")
+st.caption("Ví dụ: Hộ kinh doanh có doanh thu bao nhiêu thì không phải nộp thuế?")
 
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
-        # TODO: Hiển thị sources và retrieval score.
+        render_sources(message.get("sources", []), message.get("retrieval_source", ""))
 
 query = st.chat_input("Nhập câu hỏi...")
 
@@ -35,11 +60,14 @@ if query:
         st.markdown(query)
 
     with st.chat_message("assistant"):
-        # TODO: Gọi generate_with_citation(query, top_k).
-        answer = "TODO: Itegration RAG Pipeline hêre"
-        sources = []
-        st.markdown(answer)
+        with st.spinner("Đang tìm nguồn và soạn câu trả lời..."):
+            result = generate_with_citation(query, top_k=top_k)
+        st.markdown(result["answer"])
+        render_sources(result["sources"], result["retrieval_source"])
 
-        # TODO: Hiển thị sources và citation.
-
-    # TODO: Lưu answer và sources vào session state.
+    st.session_state.messages.append({
+        "role": "assistant",
+        "content": result["answer"],
+        "sources": result["sources"],
+        "retrieval_source": result["retrieval_source"],
+    })

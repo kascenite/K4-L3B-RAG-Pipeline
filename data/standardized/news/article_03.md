@@ -1,0 +1,39 @@
+# ‎‎Từ 2026, hộ kinh doanh phải báo cơ quan thuế các tài khoản nhận tiền
+
+**Source:** https://baochinhphu.vn/tu-2026-ho-kinh-doanh-phai-bao-co-quan-thue-cac-tai-khoan-nhan-tien-102260307185152112.htm
+
+**Crawled:** 2026-09-25T13:12:05
+
+---
+
+##  (Chinhphu.vn) - Từ năm 2026, hộ kinh doanh và cá nhân kinh doanh phải thông báo cho cơ quan thuế toàn bộ tài khoản ngân hàng, ví điện tử sử dụng trong hoạt động kinh doanh. Thời hạn gửi thông tin đối với hộ đang hoạt động là trước ngày 20/4/2026. 
+Từ năm 2026, hộ kinh doanh và cá nhân kinh doanh phải thông báo cho cơ quan thuế toàn bộ tài khoản ngân hàng, ví điện tử sử dụng trong hoạt động kinh doanh - Ảnh: VGP
+## **Phải thông báo khi thay đổi tài khoản kinh doanh**
+Theo quy định tại Nghị định 68/2026/NĐ-CP và Thông tư 18/2026/TT-BTC của Bộ Tài chính, hộ kinh doanh, cá nhân kinh doanh phải thông báo cho cơ quan thuế các tài khoản ngân hàng và ví điện tử liên quan đến hoạt động kinh doanh. Đối với các hộ đang hoạt động, thời hạn gửi thông báo chậm nhất là ngày 20/4/2026.
+Ngày 5/3/2026, Bộ Tài chính ban hành Thông tư số 18/2026/TT-BTC hướng dẫn chi tiết về hồ sơ, thủ tục thông báo doanh thu, kê khai thuế, nộp thuế, hoàn thuế, thông báo địa điểm kinh doanh, cũng như việc tạm ngừng hoặc chấm dứt hoạt động đối với hộ kinh doanh và cá nhân kinh doanh.
+Thông tư này được ban hành nhằm hướng dẫn thực hiện các quy định tại khoản 4 Điều 13 Luật Quản lý thuế số 108/2025/QH15, cùng với Điều 8, Điều 11 và Điều 12 của Nghị định 68/2026/NĐ-CP quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh.
+Theo hướng dẫn tại Điều 3 của Thông tư 18, hộ kinh doanh và cá nhân kinh doanh phải thực hiện thủ tục thông báo đến cơ quan thuế khi có các thay đổi liên quan đến địa điểm kinh doanh. Cụ thể, các trường hợp phải thông báo gồm: thành lập địa điểm kinh doanh mới, thay đổi thông tin địa điểm kinh doanh, tạm ngừng hoạt động hoặc chấm dứt hoạt động của địa điểm kinh doanh.
+Việc thông báo được thực hiện với cơ quan thuế quản lý trực tiếp trụ sở kinh doanh theo quy định tại điểm đ khoản 4 Điều 8 của Nghị định 68. Hồ sơ thông báo được lập theo Mẫu số 01/TB-ĐĐKD ban hành kèm theo Thông tư 18.
+Sau khi tiếp nhận thông tin, cơ quan thuế sẽ gửi thông báo phản hồi cho người nộp thuế theo Mẫu số 02/TB-ĐĐKD để xác nhận việc tiếp nhận thông tin theo quy định.
+Bên cạnh đó, Thông tư cũng quy định rõ nghĩa vụ của hộ kinh doanh trong việc thông báo các tài khoản ngân hàng và ví điện tử liên quan đến hoạt động sản xuất, kinh doanh.
+Theo quy định tại Nghị định 68/2026/NĐ-CP, hộ kinh doanh và cá nhân kinh doanh phải thông báo cho cơ quan thuế tất cả các số tài khoản hoặc ví điện tử sử dụng để nhận tiền từ hoạt động kinh doanh.
+Đối với hộ kinh doanh đang hoạt động thuộc đối tượng quy định tại điểm b khoản 4 Điều 17 Nghị định 68, việc thông báo số tài khoản hoặc số hiệu ví điện tử phải được thực hiện theo Mẫu số 01/BK-STK, ban hành kèm theo Thông tư 18, và thời hạn chậm nhất là ngày 20/4/2026.
+Ngoài ra, trong trường hợp có sự thay đổi về thông tin tài khoản ngân hàng hoặc ví điện tử sử dụng cho hoạt động kinh doanh, hộ kinh doanh và cá nhân kinh doanh phải thực hiện thông báo lại với cơ quan thuế theo quy định của pháp luật về quản lý thuế.
+### **Nhiều biểu mẫu khai thuế áp dụng cho hộ kinh doanh**
+Thông tư 18 cũng hướng dẫn cụ thể về hồ sơ thông báo doanh thu và hồ sơ kê khai thuế đối với hộ kinh doanh và cá nhân kinh doanh.
+Theo đó, đối với các hộ kinh doanh thuộc đối tượng không chịu thuế giá trị gia tăng và không phải nộp thuế thu nhập cá nhân, bao gồm cả hộ mới bắt đầu kinh doanh, phải thực hiện thông báo doanh thu thực tế phát sinh trong năm và kê khai các loại thuế khác theo Mẫu số 01/TKN-CNKD ban hành kèm theo Thông tư.
+Trong khi đó, đối với hộ kinh doanh và cá nhân kinh doanh thuộc đối tượng nộp thuế thu nhập cá nhân theo phương pháp tính thuế theo tỷ lệ trên doanh thu, hồ sơ khai thuế giá trị gia tăng, thuế thu nhập cá nhân và các loại thuế khác được thực hiện theo tờ khai Mẫu số 01/CNKD.
+Đối với các trường hợp áp dụng phương pháp tính thuế thu nhập cá nhân theo thu nhập tính thuế nhân với thuế suất, hồ sơ khai thuế trong năm cũng sử dụng Mẫu số 01/CNKD theo quy định tại Thông tư.
+Riêng đối với việc quyết toán thuế thu nhập cá nhân, hộ kinh doanh và cá nhân kinh doanh phải nộp tờ khai quyết toán theo Mẫu số 02/CNKD-TNCN-QTT ban hành kèm theo Thông tư.
+Ngoài ra, Thông tư cũng quy định về các trường hợp tổ chức khai thuế thay và nộp thuế thay cho cá nhân kinh doanh.
+Theo đó, đối với trường hợp tổ chức khai thuế thay, nộp thuế thay cho cá nhân hợp tác kinh doanh với tổ chức, hồ sơ khai thuế gồm tờ khai theo Mẫu số 01/TCKT và Phụ lục bảng kê chi tiết hộ kinh doanh, cá nhân kinh doanh theo Mẫu số 01/BK-KTHTKD.
+Đối với trường hợp tổ chức khai thuế thay, nộp thuế thay cho cá nhân cho thuê bất động sản, trừ hoạt động kinh doanh lưu trú, hồ sơ khai thuế gồm tờ khai theo Mẫu số 01/TCKT và Phụ lục bảng kê chi tiết cá nhân cho thuê bất động sản theo Mẫu số 02/BK-KTBĐS.
+Thông tư cũng quy định rõ hồ sơ đối với doanh nghiệp xổ số, doanh nghiệp bảo hiểm và doanh nghiệp bán hàng đa cấp khi trả hoa hồng cho cá nhân trực tiếp ký hợp đồng làm đại lý bán đúng giá.
+Trong các trường hợp này, hồ sơ khai thuế gồm tờ khai theo Mẫu số 01/XSBHĐC và Phụ lục bảng kê chi tiết cá nhân phát sinh doanh thu từ hoạt động đại lý xổ số, đại lý bảo hiểm hoặc bán hàng đa cấp theo Mẫu số 01/BK-XSBHĐC. Các hồ sơ này được gửi kèm theo tờ khai thuế của tháng hoặc quý cuối cùng trong năm tính thuế.
+Đối với cá nhân trực tiếp ký hợp đồng làm đại lý xổ số, đại lý bảo hiểm, đại lý bán hàng đa cấp hoặc thực hiện các hoạt động kinh doanh khác nhưng chưa được khấu trừ và nộp thuế trong năm, hồ sơ khai thuế được thực hiện theo tờ khai thuế năm Mẫu số 01/TKN-CNKD.
+Bên cạnh đó, đối với cá nhân cho thuê bất động sản trực tiếp khai thuế với cơ quan thuế, hồ sơ khai thuế gồm tờ khai theo Mẫu số 01/BĐS và Phụ lục bảng kê chi tiết bất động sản theo Mẫu số 01/BK-BĐS ban hành kèm theo Thông tư.
+Theo Điều 2 của Thông tư 18, đối tượng áp dụng gồm người nộp thuế là hộ kinh doanh, cá nhân kinh doanh, cơ quan thuế các cấp và công chức thuế, cùng các cơ quan, tổ chức và cá nhân khác có liên quan đến việc thực hiện nghĩa vụ thuế của hộ kinh doanh và cá nhân kinh doanh. 
+TOÀN VĂN THÔNG TƯ 18 ____
+  
+
+**Anh Minh**

@@ -1,0 +1,20 @@
+{
+  "A_dense": {
+    "faithfulness": 0.8444444444444444,
+    "answer_relevancy": 0.931170961749369,
+    "context_recall": 0.8333333333333334,
+    "context_precision": 0.7633333332740927,
+    "average": 0.8430705182003099,
+    "mean_total_s": 13.3476,
+    "mean_retrieval_s": 0.9591333333333333
+  },
+  "B_hybrid_rrf": {
+    "faithfulness": 0.9666666666666667,
+    "answer_relevancy": 0.9163660106875037,
+    "context_recall": 0.9333333333333333,
+    "context_precision": 0.7948148147683394,
+    "average": 0.9027952063639608,
+    "mean_total_s": 17.957,
+    "mean_retrieval_s": 0.8111999999999999
+  }
+}

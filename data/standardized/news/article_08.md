@@ -1,0 +1,28 @@
+# Hộ kinh doanh sử dụng hóa đơn điện tử, kê khai thuế ra sao từ năm 2026?
+
+**Source:** https://vietnamnet.vn/ho-kinh-doanh-su-dung-hoa-don-dien-tu-ke-khai-thue-ra-sao-tu-nam-2026-2470000.html
+
+**Crawled:** 2026-09-25T13:12:18
+
+---
+
+## Hộ kinh doanh, cá nhân kinh doanh căn cứ doanh thu thực tế hàng năm để tự xác định có thuộc đối tượng chịu thuế, phải nộp thuế hay không từ ngày 1/1/2026.
+Bộ Tài chính đang lấy ý kiến về dự thảo Nghị định quy định việc kê khai, tính thuế và khấu trừ thuế, sử dụng hóa đơn điện tử của hộ/cá nhân kinh doanh. Dự thảo lần đầu được xây dựng riêng về quản lý thuế cho nhóm hộ kinh doanh.
+Về sử dụng hóa đơn điện tử, dự thảo nghị định nêu: hộ kinh doanh, cá nhân kinh doanh có doanh thu hàng năm từ 1 tỷ đồng trở lên phải áp dụng hóa đơn điện tử có mã của cơ quan thuế, hoặc hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế theo quy định tại khoản 8 điều 1 Nghị định 70/2025.
+Với doanh thu hàng năm dưới 1 tỷ đồng, hộ/cá nhân kinh doanh không bắt buộc phải sử dụng hóa đơn điện tử.
+Hộ, cá nhân kinh doanh căn cứ doanh thu thực tế hàng năm để tự xác định có thuộc đối tượng chịu thuế, phải nộp thuế hay không từ ngày 1/1/2026. Ảnh: Nguyễn Lê
+Trường hợp đáp ứng điều kiện về cơ sở hạ tầng công nghệ thông tin, có nhu cầu sử dụng hóa đơn điện tử thì cơ quan thuế khuyến khích và hỗ trợ hộ/cá nhân kinh doanh đăng ký sử dụng hóa đơn điện tử có mã của cơ quan thuế hoặc hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế.
+Trường hợp hộ/cá nhân kinh doanh không đăng ký nhưng có nhu cầu sử dụng hóa đơn điện tử thì thực hiện khai và nộp thuế trước khi được cơ quan thuế cấp hóa đơn điện tử có mã của cơ quan thuế theo từng lần phát sinh giao dịch bán hàng hóa, cung cấp dịch vụ.
+**Hộ kinh doanh kê khai thuế ra sao?**
+Theo dự thảo nghị định, hộ/cá nhân kinh doanh căn cứ trên doanh thu thực tế hàng năm từ hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ tự xác định thuộc đối tượng không chịu thuế, không phải nộp thuế hay đối tượng chịu thuế, đối tượng phải nộp thuế theo quy định về thuế giá trị gia tăng (GTGT), thuế thu nhập cá nhân (TNCN) từ ngày 1/1/2026.
+Trường hợp xác định thuộc đối tượng chịu thuế GTGT, phải nộp thuế TNCN thì hộ/cá nhân kinh doanh tự xác định số thuế phải nộp và thực hiện kê khai, nộp thuế như sau:
+Thuộc đối tượng chịu thuế GTGT: thực hiện khai, nộp thuế giá trị gia tăng theo tháng, quý theo quy định của pháp luật quản lý thuế.
+Thuộc đối tượng nộp thuế TNCN theo doanh thu tính thuế nhân thuế suất: thực hiện khai, nộp thuế thu nhập cá nhân theo quý cùng thời hạn khai, nộp thuế GTGT.
+Thuộc đối tượng nộp thuế TNCN theo thu nhập tính thuế (doanh thu trừ chi phí) nhân thuế suất: thực hiện nộp thuế TNCN theo năm, chậm nhất là ngày 21/1 năm sau.
+Trường hợp hộ/cá nhân kinh doanh sử dụng hóa đơn điện tử hoặc hóa đơn khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế, hệ thống công nghệ thông tin sẽ căn cứ vào dữ liệu hóa đơn điện tử, dữ liệu quản lý thuế và các nguồn dữ liệu khác từ cơ quan nhà nước, tổ chức, cá nhân cung cấp để tự động tạo lập tờ khai thuế gợi ý, hỗ trợ người nộp thuế trong khai và tính thuế.
+Nếu tự xác định không thuộc đối tượng chịu thuế GTGT và không phải nộp thuế TNCN, hộ/cá nhân kinh doanh vẫn phải kê khai doanh thu và gửi cơ quan thuế quản lý trực tiếp chậm nhất là ngày 31/1 năm sau.
+Đối với thuế GTGT, thuế TNCN, thuế tiêu thụ đặc biệt, thuế tài nguyên, thuế bảo vệ môi trường chia ra 2 trường hợp.
+_Thứ nhất_ , hộ/cá nhân kinh doanh sử dụng hóa đơn điện tử có mã của cơ quan thuế thì hệ thống thông tin quản lý thuế của cơ quan thuế hỗ trợ xác định số thuế GTGT, thuế TNCN, thuế tiêu thụ đặc biệt, thuế tài nguyên, thuế bảo vệ môi trường (nếu có) phải nộp và cập nhật dữ liệu cho người nộp thuế.
+_Thứ hai_ , nếu hộ/cá nhân kinh doanh không sử dụng hóa đơn điện tử thì tự xác định số thuế phải nộp theo quy định.
+Dự kiến, nghị định sẽ có hiệu lực thi hành từ ngày 1/1/2026. Đây cũng là thời điểm hộ kinh doanh chính thức bỏ hình thức nộp thuế khoán, chuyển sang kê khai, nộp thuế theo doanh thu thực tế. 
+Nâng ngưỡng miễn thuế hộ kinh doanh lên 500 triệu đồng/năm: Đã hợp lý?Chuyên gia kiến nghị áp ngưỡng doanh thu miễn thuế theo hệ số vùng tương tự cơ chế lương tối thiểu; đồng thời điều chỉnh định kỳ theo CPI hoặc mức tăng thu nhập bình quân để ngưỡng miễn thuế luôn phù hợp.

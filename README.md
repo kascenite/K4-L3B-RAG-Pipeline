@@ -41,7 +41,17 @@ pytest -q
 
 # 3. Chạy sản phẩm
 streamlit run app.py
+
+# 4. Evaluation A/B (dense-only vs hybrid + RRF), kết quả ở group_project/evaluation/runs/
+python -m src.evaluate generate
+python -m src.evaluate score
 ```
+
+Cấu hình đang dùng (đề tài: pháp luật cho hộ kinh doanh): embedding `gemini-embedding-2` (768 chiều),
+generator `gemma-4-26b-a4b-it`, judge `gemini-3.5-flash-lite` — đều chạy được bằng Gemini API free tier.
+`SCORE_THRESHOLD=0.68` đã hiệu chỉnh trên query in-domain/out-of-domain (xem `group_project/evaluation/RESULT.md`).
+PageIndex fallback chỉ hoạt động khi có `PAGEINDEX_API_KEY` (chạy `python -m src.task8_pageindex_vectorless` để upload);
+thiếu key thì pipeline trả kết quả hybrid.
 
 ## Lộ trình 3 giờ
 
