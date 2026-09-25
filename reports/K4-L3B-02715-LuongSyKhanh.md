@@ -53,5 +53,5 @@
 
 Tôi xác nhận nội dung trên phản ánh đúng phần việc của mình và có thể giải thích hoặc chạy lại trong buổi demo.
 
-- Ngày: 25/9/20226
+- Ngày: 25/9/2026
 - Tên thành viên: Lương Sỹ Khánh
